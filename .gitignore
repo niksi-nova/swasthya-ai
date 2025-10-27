@@ -1,0 +1,10 @@
+# python
+__pycache__/
+*.pyc
+.env
+.venv/
+# data
+data/
+*.sqlite3
+# VS Code
+.vscode/
